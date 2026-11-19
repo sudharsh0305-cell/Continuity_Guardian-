@@ -1,0 +1,166 @@
+TITLE: Continuity Guardian Timeline Markers
+FCM: NON-DROP FRAME
+
+001  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 1 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 1 has an appearance discontinuity (similarity: 0.45)!
+
+002  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 2 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 2 has an appearance discontinuity (similarity: 0.45)!
+
+003  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 3 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 3 has an appearance discontinuity (similarity: 0.44)!
+
+004  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 4 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 4 has an appearance discontinuity (similarity: 0.45)!
+
+005  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 5 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 5 has an appearance discontinuity (similarity: 0.45)!
+
+006  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 6 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 6 has an appearance discontinuity (similarity: 0.45)!
+
+007  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 7 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 7 has an appearance discontinuity (similarity: 0.45)!
+
+008  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 2 VANISHING NOTE=CRITICAL ALERT: Object ID 2 has vanished from the scene!
+
+009  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 4 VANISHING NOTE=CRITICAL ALERT: Object ID 4 has vanished from the scene!
+
+010  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 5 VANISHING NOTE=CRITICAL ALERT: Object ID 5 has vanished from the scene!
+
+011  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 6 VANISHING NOTE=CRITICAL ALERT: Object ID 6 has vanished from the scene!
+
+012  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 7 VANISHING NOTE=CRITICAL ALERT: Object ID 7 has vanished from the scene!
+
+013  AX       V     C        00:00:01:07 00:00:01:08 00:00:01:07 00:00:01:08
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 3 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 3 vanished from the scene correlated with audio sync break!
+
+014  AX       V     C        00:00:01:16 00:00:01:17 00:00:01:16 00:00:01:17
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 87 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 87 has an appearance discontinuity (similarity: 0.45)!
+
+015  AX       V     C        00:00:01:28 00:00:01:29 00:00:01:28 00:00:01:29
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 5 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 5 vanished from the scene correlated with audio sync break!
+
+016  AX       V     C        00:00:02:01 00:00:02:02 00:00:02:01 00:00:02:02
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 3 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 3 vanished from the scene correlated with audio sync break!
+
+017  AX       V     C        00:00:02:25 00:00:02:26 00:00:02:25 00:00:02:26
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 87 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 87 vanished from the scene correlated with audio sync break!
+
+018  AX       V     C        00:00:04:16 00:00:04:17 00:00:04:16 00:00:04:17
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 87 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 87 vanished from the scene correlated with audio sync break!
+
+019  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 1 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 1 has an appearance discontinuity (similarity: 0.45)!
+
+020  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 2 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 2 has an appearance discontinuity (similarity: 0.45)!
+
+021  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 3 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 3 has an appearance discontinuity (similarity: 0.44)!
+
+022  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 4 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 4 has an appearance discontinuity (similarity: 0.45)!
+
+023  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 5 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 5 has an appearance discontinuity (similarity: 0.45)!
+
+024  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 6 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 6 has an appearance discontinuity (similarity: 0.45)!
+
+025  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 7 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 7 has an appearance discontinuity (similarity: 0.45)!
+
+026  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 2 VANISHING NOTE=CRITICAL ALERT: Object ID 2 has vanished from the scene!
+
+027  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 4 VANISHING NOTE=CRITICAL ALERT: Object ID 4 has vanished from the scene!
+
+028  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 5 VANISHING NOTE=CRITICAL ALERT: Object ID 5 has vanished from the scene!
+
+029  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 6 VANISHING NOTE=CRITICAL ALERT: Object ID 6 has vanished from the scene!
+
+030  AX       V     C        00:00:00:19 00:00:00:20 00:00:00:19 00:00:00:20
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=RED NAME=ID 7 VANISHING NOTE=CRITICAL ALERT: Object ID 7 has vanished from the scene!
+
+031  AX       V     C        00:00:01:07 00:00:01:08 00:00:01:07 00:00:01:08
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 3 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 3 vanished from the scene correlated with audio sync break!
+
+032  AX       V     C        00:00:01:16 00:00:01:17 00:00:01:16 00:00:01:17
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=PURPLE NAME=ID 87 APPEARANCE_DISCONTINUITY NOTE=CRITICAL: Object ID 87 has an appearance discontinuity (similarity: 0.45)!
+
+033  AX       V     C        00:00:01:28 00:00:01:29 00:00:01:28 00:00:01:29
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 5 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 5 vanished from the scene correlated with audio sync break!
+
+034  AX       V     C        00:00:02:01 00:00:02:02 00:00:02:01 00:00:02:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 3 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 3 vanished from the scene correlated with audio sync break!
+
+035  AX       V     C        00:00:02:25 00:00:02:26 00:00:02:25 00:00:02:26
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 87 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 87 vanished from the scene correlated with audio sync break!
+
+036  AX       V     C        00:00:04:16 00:00:04:17 00:00:04:16 00:00:04:17
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=BLUE NAME=ID 87 AV_JUMP_CUT NOTE=AV JUMP CUT ALERT: Object ID 87 vanished from the scene correlated with audio sync break!
+
+037  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=GREEN NAME=ID Scene-1 SCRIPT_DEVIATION NOTE=SCRIPT DEVIATION: Required prop 'book' from screenplay Scene 1 (INT. STAGE 1 / THE LIVING ROOM - DAY) was not detected in video 'test_scene.mp4'.
+
+038  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=GREEN NAME=ID Scene-1 SCRIPT_DEVIATION NOTE=SCRIPT DEVIATION: Required prop 'glass' from screenplay Scene 1 (INT. STAGE 1 / THE LIVING ROOM - DAY) was not detected in video 'test_scene.mp4'.
+
+039  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=GREEN NAME=ID Scene-1 SCRIPT_DEVIATION NOTE=SCRIPT DEVIATION: Required prop 'keys' from screenplay Scene 1 (INT. STAGE 1 / THE LIVING ROOM - DAY) was not detected in video 'test_scene.mp4'.
+
+040  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: scene2.mp4
+* KEYFRAME MARKER: COLOR=GREEN NAME=ID Scene-2 SCRIPT_DEVIATION NOTE=SCRIPT DEVIATION: Required prop 'phone' from screenplay Scene 2 (EXT. HORSE FIELD - DAY) was not detected in video 'scene2.mp4'.
+
+041  AX       V     C        00:00:00:01 00:00:00:02 00:00:00:01 00:00:00:02
+* FROM CLIP: test_scene.mp4
+* KEYFRAME MARKER: COLOR=GREEN NAME=ID Scene-2 SCRIPT_DEVIATION NOTE=SCRIPT DEVIATION: Required prop 'phone' from screenplay Scene 2 (EXT. HORSE FIELD - DAY) was not detected in video 'test_scene.mp4'.

@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  guardian:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: continuity_guardian_app
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./input_videos:/app/input_videos
+      - ./anomaly_clips:/app/anomaly_clips
+      - ./anomaly_snapshots:/app/anomaly_snapshots
+      - ./output_videos:/app/output_videos
+      - ./logs:/app/logs
+    restart: unless-stopped

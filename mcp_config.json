@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "continuity-guardian": {
+      "command": "python3",
+      "args": [
+        "/Users/sudharshkamath/Documents/continuity_guardian/guardian.py",
+        "mcp"
+      ],
+      "env": {
+        "PYTHONUNBUFFERED": "1"
+      }
+    }
+  }
+}

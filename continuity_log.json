@@ -1,0 +1,80 @@
+[
+    {
+        "frame": 7,
+        "log_type": "vanishing",
+        "object_id": 2,
+        "message": "CRITICAL ALERT: Object ID 2 has vanished from the scene!"
+    },
+    {
+        "frame": 7,
+        "log_type": "vanishing",
+        "object_id": 3,
+        "message": "CRITICAL ALERT: Object ID 3 has vanished from the scene!"
+    },
+    {
+        "frame": 7,
+        "log_type": "vanishing",
+        "object_id": 4,
+        "message": "CRITICAL ALERT: Object ID 4 has vanished from the scene!"
+    },
+    {
+        "frame": 7,
+        "log_type": "vanishing",
+        "object_id": 5,
+        "message": "CRITICAL ALERT: Object ID 5 has vanished from the scene!"
+    },
+    {
+        "frame": 7,
+        "log_type": "vanishing",
+        "object_id": 6,
+        "message": "CRITICAL ALERT: Object ID 6 has vanished from the scene!"
+    },
+    {
+        "frame": 7,
+        "log_type": "vanishing",
+        "object_id": 7,
+        "message": "CRITICAL ALERT: Object ID 7 has vanished from the scene!"
+    },
+    {
+        "frame": 22,
+        "log_type": "vanishing",
+        "object_id": 1,
+        "message": "CRITICAL ALERT: Object ID 1 has vanished from the scene!"
+    },
+    {
+        "frame": 25,
+        "log_type": "vanishing",
+        "object_id": 3,
+        "message": "CRITICAL ALERT: Object ID 3 has vanished from the scene!"
+    },
+    {
+        "frame": 51,
+        "log_type": "vanishing",
+        "object_id": 3,
+        "message": "CRITICAL ALERT: Object ID 3 has vanished from the scene!"
+    },
+    {
+        "frame": 73,
+        "log_type": "vanishing",
+        "object_id": 263,
+        "message": "CRITICAL ALERT: Object ID 263 has vanished from the scene!"
+    },
+    {
+        "frame": 126,
+        "log_type": "vanishing",
+        "object_id": 547,
+        "message": "CRITICAL ALERT: Object ID 547 has vanished from the scene!"
+    },
+    {
+        "frame": 282,
+        "log_type": "vanishing",
+        "object_id": 1506,
+        "message": "CRITICAL ALERT: Object ID 1506 has vanished from the scene!"
+    },
+    {
+        "frame": 297,
+        "log_type": "vanishing",
+        "object_id": 1620,
+        "message": "CRITICAL ALERT: Object ID 1620 has vanished from the scene!"
+    }
+]

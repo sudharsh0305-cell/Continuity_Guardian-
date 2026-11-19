@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<fcpxml version="1.9">
+    <resources>
+        <format id="r1" name="FFVideoFormat1080p2997" frameDuration="1001/30000s"/>
+    </resources>
+    <library>
+        <event name="Continuity Guardian Markers">
+            <project name="Continuity Logs">
+                <sequence duration="600s" format="r1" tcStart="0s">
+                    <spine>
+                        <gap name="Timeline" offset="0s" duration="600s">
+                            <marker start="0.033s" duration="1s" value="ID 1 APPEARANCE_DISCONTINUITY" note="Clip: scene2.mp4 | CRITICAL: Object ID 1 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 2 APPEARANCE_DISCONTINUITY" note="Clip: scene2.mp4 | CRITICAL: Object ID 2 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 3 APPEARANCE_DISCONTINUITY" note="Clip: scene2.mp4 | CRITICAL: Object ID 3 has an appearance discontinuity (similarity: 0.44)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 4 APPEARANCE_DISCONTINUITY" note="Clip: scene2.mp4 | CRITICAL: Object ID 4 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 5 APPEARANCE_DISCONTINUITY" note="Clip: scene2.mp4 | CRITICAL: Object ID 5 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 6 APPEARANCE_DISCONTINUITY" note="Clip: scene2.mp4 | CRITICAL: Object ID 6 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 7 APPEARANCE_DISCONTINUITY" note="Clip: scene2.mp4 | CRITICAL: Object ID 7 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.633s" duration="1s" value="ID 2 VANISHING" note="Clip: scene2.mp4 | CRITICAL ALERT: Object ID 2 has vanished from the scene!"/>
+                            <marker start="0.633s" duration="1s" value="ID 4 VANISHING" note="Clip: scene2.mp4 | CRITICAL ALERT: Object ID 4 has vanished from the scene!"/>
+                            <marker start="0.633s" duration="1s" value="ID 5 VANISHING" note="Clip: scene2.mp4 | CRITICAL ALERT: Object ID 5 has vanished from the scene!"/>
+                            <marker start="0.633s" duration="1s" value="ID 6 VANISHING" note="Clip: scene2.mp4 | CRITICAL ALERT: Object ID 6 has vanished from the scene!"/>
+                            <marker start="0.633s" duration="1s" value="ID 7 VANISHING" note="Clip: scene2.mp4 | CRITICAL ALERT: Object ID 7 has vanished from the scene!"/>
+                            <marker start="1.233s" duration="1s" value="ID 3 AV_JUMP_CUT" note="Clip: scene2.mp4 | AV JUMP CUT ALERT: Object ID 3 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="1.533s" duration="1s" value="ID 87 APPEARANCE_DISCONTINUITY" note="Clip: scene2.mp4 | CRITICAL: Object ID 87 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="1.933s" duration="1s" value="ID 5 AV_JUMP_CUT" note="Clip: scene2.mp4 | AV JUMP CUT ALERT: Object ID 5 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="2.033s" duration="1s" value="ID 3 AV_JUMP_CUT" note="Clip: scene2.mp4 | AV JUMP CUT ALERT: Object ID 3 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="2.833s" duration="1s" value="ID 87 AV_JUMP_CUT" note="Clip: scene2.mp4 | AV JUMP CUT ALERT: Object ID 87 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="4.533s" duration="1s" value="ID 87 AV_JUMP_CUT" note="Clip: scene2.mp4 | AV JUMP CUT ALERT: Object ID 87 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="0.033s" duration="1s" value="ID 1 APPEARANCE_DISCONTINUITY" note="Clip: test_scene.mp4 | CRITICAL: Object ID 1 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 2 APPEARANCE_DISCONTINUITY" note="Clip: test_scene.mp4 | CRITICAL: Object ID 2 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 3 APPEARANCE_DISCONTINUITY" note="Clip: test_scene.mp4 | CRITICAL: Object ID 3 has an appearance discontinuity (similarity: 0.44)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 4 APPEARANCE_DISCONTINUITY" note="Clip: test_scene.mp4 | CRITICAL: Object ID 4 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 5 APPEARANCE_DISCONTINUITY" note="Clip: test_scene.mp4 | CRITICAL: Object ID 5 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 6 APPEARANCE_DISCONTINUITY" note="Clip: test_scene.mp4 | CRITICAL: Object ID 6 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.033s" duration="1s" value="ID 7 APPEARANCE_DISCONTINUITY" note="Clip: test_scene.mp4 | CRITICAL: Object ID 7 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="0.633s" duration="1s" value="ID 2 VANISHING" note="Clip: test_scene.mp4 | CRITICAL ALERT: Object ID 2 has vanished from the scene!"/>
+                            <marker start="0.633s" duration="1s" value="ID 4 VANISHING" note="Clip: test_scene.mp4 | CRITICAL ALERT: Object ID 4 has vanished from the scene!"/>
+                            <marker start="0.633s" duration="1s" value="ID 5 VANISHING" note="Clip: test_scene.mp4 | CRITICAL ALERT: Object ID 5 has vanished from the scene!"/>
+                            <marker start="0.633s" duration="1s" value="ID 6 VANISHING" note="Clip: test_scene.mp4 | CRITICAL ALERT: Object ID 6 has vanished from the scene!"/>
+                            <marker start="0.633s" duration="1s" value="ID 7 VANISHING" note="Clip: test_scene.mp4 | CRITICAL ALERT: Object ID 7 has vanished from the scene!"/>
+                            <marker start="1.233s" duration="1s" value="ID 3 AV_JUMP_CUT" note="Clip: test_scene.mp4 | AV JUMP CUT ALERT: Object ID 3 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="1.533s" duration="1s" value="ID 87 APPEARANCE_DISCONTINUITY" note="Clip: test_scene.mp4 | CRITICAL: Object ID 87 has an appearance discontinuity (similarity: 0.45)!"/>
+                            <marker start="1.933s" duration="1s" value="ID 5 AV_JUMP_CUT" note="Clip: test_scene.mp4 | AV JUMP CUT ALERT: Object ID 5 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="2.033s" duration="1s" value="ID 3 AV_JUMP_CUT" note="Clip: test_scene.mp4 | AV JUMP CUT ALERT: Object ID 3 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="2.833s" duration="1s" value="ID 87 AV_JUMP_CUT" note="Clip: test_scene.mp4 | AV JUMP CUT ALERT: Object ID 87 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="4.533s" duration="1s" value="ID 87 AV_JUMP_CUT" note="Clip: test_scene.mp4 | AV JUMP CUT ALERT: Object ID 87 vanished from the scene correlated with audio sync break!"/>
+                            <marker start="0.033s" duration="1s" value="ID Scene-1 SCRIPT_DEVIATION" note="Clip: test_scene.mp4 | SCRIPT DEVIATION: Required prop 'book' from screenplay Scene 1 (INT. STAGE 1 / THE LIVING ROOM - DAY) was not detected in video 'test_scene.mp4'."/>
+                            <marker start="0.033s" duration="1s" value="ID Scene-1 SCRIPT_DEVIATION" note="Clip: test_scene.mp4 | SCRIPT DEVIATION: Required prop 'glass' from screenplay Scene 1 (INT. STAGE 1 / THE LIVING ROOM - DAY) was not detected in video 'test_scene.mp4'."/>
+                            <marker start="0.033s" duration="1s" value="ID Scene-1 SCRIPT_DEVIATION" note="Clip: test_scene.mp4 | SCRIPT DEVIATION: Required prop 'keys' from screenplay Scene 1 (INT. STAGE 1 / THE LIVING ROOM - DAY) was not detected in video 'test_scene.mp4'."/>
+                            <marker start="0.033s" duration="1s" value="ID Scene-2 SCRIPT_DEVIATION" note="Clip: scene2.mp4 | SCRIPT DEVIATION: Required prop 'phone' from screenplay Scene 2 (EXT. HORSE FIELD - DAY) was not detected in video 'scene2.mp4'."/>
+                            <marker start="0.033s" duration="1s" value="ID Scene-2 SCRIPT_DEVIATION" note="Clip: test_scene.mp4 | SCRIPT DEVIATION: Required prop 'phone' from screenplay Scene 2 (EXT. HORSE FIELD - DAY) was not detected in video 'test_scene.mp4'."/>
+                        </gap>
+                    </spine>
+                </sequence>
+            </project>
+        </event>
+    </library>
+</fcpxml>
